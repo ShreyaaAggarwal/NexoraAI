@@ -79,6 +79,6 @@ npm run dev
 
 ## 👤 Author
 
-**Your Name** — [GitHub](#) · [LinkedIn](#)
+**Your Name** — [GitHub](https://github.com/ShreyaaAggarwal) · [LinkedIn](https://www.linkedin.com/in/shreya-aggarwal-1276aa369/)
 
 > Built for Frontend Battle Round 1, June 2026
