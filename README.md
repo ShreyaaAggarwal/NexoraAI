@@ -10,8 +10,8 @@ A premium AI automation platform landing page built for **Frontend Battle Round 
 
 ## 🔗 Links
 
-- **Live Demo:** [[your-link-here](https://nexora-cq92puxfu-shreyaaaggarwals-projects.vercel.app/)](#)
-- **GitHub:** [[your-repo-link-here](https://github.com/ShreyaaAggarwal/NexoraAI)](#)
+- **Live Demo:** [[NexoiraAI](https://nexora-cq92puxfu-shreyaaaggarwals-projects.vercel.app/)](#)
+- **GitHub:** [[Repository Link](https://github.com/ShreyaaAggarwal/NexoraAI)](#)
 
 ---
 
